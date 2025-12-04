@@ -5,8 +5,8 @@ on:
 #    branches:
 #      - "main"
 #      - "dev"
-    tags:
-      - "*"
+#    tags:
+#      - "*"
   workflow_dispatch:
   pull_request:
 
