@@ -1,5 +1,5 @@
-name: Kanola Plasma Desktop
-id: kanola-plasma
+name: Vanilla Burst
+id: vanilla-burst
 vibversion: 1.0.2
 
 stages:
@@ -7,7 +7,7 @@ stages:
   base: ghcr.io/kanola-images/base:main
   addincludes: true
   labels:
-    maintainer: Kanola Contributors
+    maintainer: Malmberg
   args:
     DEBIAN_FRONTEND: noninteractive
   runs:
