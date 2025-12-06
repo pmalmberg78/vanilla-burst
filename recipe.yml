@@ -39,7 +39,7 @@ stages:
   - name: packages-modules
     type: includes
     includes:
-       - modules/plasma.yml
+       - modules/01-plasma.yml
 #      - modules/10-display-manager.yml
 #      - modules/20-plasma-core.yml
 #      - modules/30-plasma-essentials.yml
@@ -47,7 +47,7 @@ stages:
 #      - modules/36-twingate-client.yml
 #      - modules/161-plasma-utilities.yml
 #      - modules/200-plasma-common.yml
-#      - modules/999-cleanup.yml
+      - modules/999-cleanup.yml
 
 #  - name: fix-gdm-permissions-service
 #    type: shell
