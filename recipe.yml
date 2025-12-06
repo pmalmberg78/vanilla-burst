@@ -39,7 +39,7 @@ stages:
   - name: packages-modules
     type: includes
     includes:
-      - modules/10-display-manager.yml
+#      - modules/10-display-manager.yml
       - modules/20-plasma-core.yml
       - modules/30-plasma-essentials.yml
       - modules/35-mystuff.yml
@@ -48,11 +48,11 @@ stages:
       - modules/200-plasma-common.yml
       - modules/999-cleanup.yml
 
-  - name: fix-gdm-permissions-service
-    type: shell
-    commands:
-    - mkdir -p /etc/systemd/system/multi-user.target.wants/
-    - ln -s /usr/lib/systemd/system/fix-gdm-permissions.service /etc/systemd/system/multi-user.target.wants/
+#  - name: fix-gdm-permissions-service
+#    type: shell
+#    commands:
+#    - mkdir -p /etc/systemd/system/multi-user.target.wants/
+#    - ln -s /usr/lib/systemd/system/fix-gdm-permissions.service /etc/systemd/system/multi-user.target.wants/
 
   - name: cleanup
     type: shell
