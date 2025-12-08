@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Nordic wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1683121</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>185264</downloads>
+  <installedfile>/home/peter/.local/share/wallpapers/nordic-wallpaper.jpg</installedfile>
+  <id>1683121</id>
+  <releasedate>2022-01-13</releasedate>
+  <summary>&lt;p>A wallpaper with colors that fits my &lt;a href="https://store.kde.org/p/1327093/">Nordic&lt;/a> theme for plasma&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1683121/nordic-wallpaper.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1683121/nordic-wallpaper.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY0MjExMzYwOCwibyI6IjEiLCJzIjoiZDFmOTIwZTkyMmRmMzc4MzRlY2ZlNDAzNmIzNTA3N2U0MGJjOGVlYzFhNTc3ZWIzOWQzMTAyZjFkNTExNWMwZjE2ZGY3ZDdhZWU1N2E1OWUwZjYwZWZjZmViYzBlNjA2NjMyZWM3N2E1MDg2MTBiMDdiNDM3M2JjOTQyZWE4OWQiLCJ0IjoxNzY1MTg0MDIwLCJzdGZwIjpudWxsLCJzdGlwIjoiMTIyLjEwMC43NC4xNTkifQ.0XSq_j9FVmLXkAhgUnpS74i1_xCKs7DqNWCrSyI4kUk/nordic-wallpaper.jpg</payload>
+  <tags>cc-by-sa,original-product,plasma,kde,artwork,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="306">
+  <name>Nordic mountains wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2086140</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>94643</downloads>
+  <installedfile>/home/peter/.local/share/wallpapers/Nordic-mountain-wallpaper.jpg</installedfile>
+  <id>2086140</id>
+  <releasedate>2023-09-16</releasedate>
+  <summary>&lt;p>Nordified mountains wallpaper that fits Nordic themes, this uses &lt;a href="https://www.pexels.com/es-es/foto/montanas-con-nieve-blanca-355747/"> this awesome mountains wallpaper&lt;/a>(released under CC0 license) as base.&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/2086140/nordic-mountain-wallpaper.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/2086140/nordic-mountain-wallpaper.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY5NDg5NzA1NiwibyI6IjEiLCJzIjoiNGNmN2JkNmVlZmE1NDIwMTkwODU0MGU3ZDQyMTg3ZmE1ZGQxZGMxMTcyYzI0NGMwNDk2ZTZlMGNjM2U1MmY2NDgwYTRhNWZlMjk1M2JiMjAzZWE2NDk1ODgxMmQ4NmJkOTg0M2I5ZTI5ZDZiZmMyNDEwNzVhN2QwZGE5ZDRkOTYiLCJ0IjoxNzY1MTg0MDc1LCJzdGZwIjpudWxsLCJzdGlwIjoiMTIyLjEwMC43NC4xNTkifQ.uQUe2ru6FXrUJDTM6-VgL85U6-E1_bXcxwKjcM9ZvjI/Nordic-mountain-wallpaper.jpg</payload>
+  <tags>efi,artwork,cc0,landscape,mountain,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

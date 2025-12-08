@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>Nordic darker SDDM Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2146572</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>84941</downloads>
+  <installedfile>/tmp/Nordic-darker-Plasma-6.tar.xz</installedfile>
+  <id>2146572</id>
+  <releasedate>2025-12-03</releasedate>
+  <summary>&lt;p>Nordic darker sddm is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord">Nord&lt;/a> color palette.&lt;br />&lt;br />Suggested settings: &lt;br />&lt;br />&lt;a href="https://www.pling.com/p/1633673v/"> Nordic darker Plasma theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326272/">Nordic darker Kvantum theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326274/">Nordic Aurorae theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1629062/">Nordic darker color scheme&lt;/a>&lt;br />&lt;br />&lt;a href="https://www.pling.com/p/1733012/"> Folders &lt;/a>&lt;br />&lt;br />Wallpaper in screenshot &lt;a href="https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg"> here &lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/2146572/captura-desde-2024-04-13-18-40-24.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/2146572/captura-desde-2024-04-13-18-40-24.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMzA1NTc4OSwibyI6IjEiLCJzIjoiZGVmMGEyZDUzZDIyOTkwM2Y4YTViYWVjYmQ4Njk5MjQ4ZjY1YWFiZTliYzA4ZmE0NWE5YjdhZDlmNzZmYzIzYzkxYWM2NWM2ZmY2NDk3MGRhNzdjN2JlN2ZjYjc2MDhkNWI1MDBhODZkMTRiZmFjOGQ0NDg3NjU2OGM2ZGQ3MmMiLCJ0IjoxNzY1MTg0MDA0LCJzdGZwIjpudWxsLCJzdGlwIjoiMTIyLjEwMC43NC4xNTkifQ.p9n0L6_YVOuyhFFBh6_11JiE1tEyVHi9Z6DLRVxQ7aA/Nordic-darker-Plasma-6.tar.xz</payload>
+  <tags>original-product,unix,linux,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Nordic sddm Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2144235</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>101801</downloads>
+  <installedfile>/tmp/Nordic-Plasma-6.tar.xz</installedfile>
+  <id>2144235</id>
+  <releasedate>2025-12-03</releasedate>
+  <summary>&lt;p>Nordic is a dark sddm theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord">Nord&lt;/a> color palette.&lt;br />&lt;br />Suggested settings: &lt;br />&lt;br />&lt;a href="https://www.pling.com/p/1327093/"> Global theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://www.pling.com/p/1326896/"> Nordic Plasma theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326272/">Nordic Kvantum theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326274/">Nordic Aurorae theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326271/">Nordic color scheme&lt;/a>&lt;br />&lt;br />&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246"> Folders &lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/2144235/captura-desde-2024-04-04-19-57-17.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/2144235/captura-desde-2024-04-04-19-57-17.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTcxMjI4NTk2MSwibyI6IjEiLCJzIjoiYmYwYmRhNTI4NjkyYzQzMDBiNGJlN2U5MGZkNTY0ZTM2NjRkZDcxM2Q0NjBkN2QyMzU1MDBlOTg0NGE3MGM3MGRhNTMxZGMxYjA0YzQxYzRmMzQ1MWI2ZDJjOWNjOTlmYzBkNDg2NGM4YTY1ZDE3NzJiNWE2MjM0MDUxODE5OTIiLCJ0IjoxNzY1MTg0MDY0LCJzdGZwIjpudWxsLCJzdGlwIjoiMTIyLjEwMC43NC4xNTkifQ.kknzTjaOa227FDkqga8H2dzjL5bTqbnvveoFtdAzCOg/Nordic-Plasma-6.tar.xz</payload>
+  <tags>linux,gplv3,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

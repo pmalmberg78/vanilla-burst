@@ -1,0 +1,20 @@
+name: klassy-setup
+type: shell
+sources:
+  - type: git
+    url: https://github.com/paulmcauley/klassy.git
+    tag: 6.4.breeze6.4.0
+    paths:
+    - klassy
+commands:
+  - chmod +x /sources/klassy-setup/klassy/install.sh
+  - bash /sources/klassy-setup/klassy/install.sh
+  
+
+
+
+
+
+
+
+  

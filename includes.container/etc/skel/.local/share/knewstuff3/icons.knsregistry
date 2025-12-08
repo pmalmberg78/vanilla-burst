@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Nordic folders</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1733012</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>189745</downloads>
+  <installedfile>/home/peter/.local/share/icons/Nordic-bluish/*</installedfile>
+  <installedfile>/home/peter/.local/share/icons/Nordic-darker/*</installedfile>
+  <installedfile>/home/peter/.local/share/icons/Nordic-green/*</installedfile>
+  <id>1733012</id>
+  <releasedate>2022-03-20</releasedate>
+  <summary>&lt;p>Foders for nordic theme&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1733012/nordicfolders.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1733012/nordicfolders.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY0NzgxNTg1NSwibyI6IjEiLCJzIjoiZGUzZDg2NDE3YTRiY2UxNTJhMWFiYjU5YTNiOTEzM2I3MTdlMGY1NzZhZDBhMzg4NmM2M2JiNzM2OTg2YWQ4NDZlZWNmMDBkYzdiMDgxZGJjMzk1NjBiMGE4MDk4NWY2MjEyMjRmZTEyZjA2NmExNTM2MDEwYTgyY2M1ODIwYTQiLCJ0IjoxNzY1MTg0MDMyLCJzdGZwIjpudWxsLCJzdGlwIjoiMTIyLjEwMC43NC4xNTkifQ.5Ly2uRjGUNVbQElS_klWHhTH2MXVVge_QrwqessuXlg/Nordic-folders.tar.xz</payload>
+  <tags>gplv3,icon-theme,linux,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

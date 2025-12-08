@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Nordic darker solid</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1704303</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>46602</downloads>
+  <installedfile>/home/peter/.local/share/plasma/desktoptheme/Nordic-darker-solid/</installedfile>
+  <id>1704303</id>
+  <releasedate>2025-12-03</releasedate>
+  <summary>&lt;p>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord">Nord&lt;/a> color palette.&lt;br />&lt;br />Suggested settings: &lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326272/">Nordic darker Kvantum theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326274/">Nordic Aurorae theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1629062/">Nordic darker color scheme&lt;/a>&lt;br />&lt;br />&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246"> Folders &lt;/a>&lt;br />&lt;br />Wallpaper in screenshot &lt;a href="https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg"> here &lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1704303/screenshot-20220209-172730.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1704303/screenshot-20220209-172730.jpg</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczNjkwOTQ5OCwibyI6IjEiLCJzIjoiNzNkMGM2ZWRlYTBkMWRlMjIxNjRhODYwMWIyYmZhOTUyOGRjYTAzNjE3NDRmODhkN2RmMjY4MTZmMjY0N2YwOGY4OTU0Y2E3MmIxNjIzOTFiNTM5M2UxMmI5ODkyZDQyZGFiODQ4YjM0NzNlYzA5YTI3MDI4YTc1NjU4OWYxMDYiLCJ0IjoxNzY1MTg0MDI2LCJzdGZwIjpudWxsLCJzdGlwIjoiMTIyLjEwMC43NC4xNTkifQ.m3vGSyrBazrMwZIl0hPxe2jQBT1f2Q-cjMTXq3geUYk/Nordic-darker-solid.tar.xz</payload>
+  <tags>plasma,cc-by-sa,unix,theme,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Nordic darker KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1633673</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>66</rating>
+  <downloads>90390</downloads>
+  <installedfile>/home/peter/.local/share/plasma/desktoptheme/Nordic-darker/</installedfile>
+  <id>1633673</id>
+  <releasedate>2025-12-03</releasedate>
+  <summary>&lt;p>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord">Nord&lt;/a> color palette.&lt;br />&lt;br />Suggested settings: &lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326272/">Nordic darker Kvantum theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326274/">Nordic Aurorae theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1629062/">Nordic darker color scheme&lt;/a>&lt;br />&lt;br />&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246"> Folders &lt;/a>&lt;br />&lt;br />Wallpaper in screenshot &lt;a href="https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg"> here &lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1633673/screenshot-20221009-1750291.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1633673/screenshot-20221009-1750291.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczNjkwODc5NCwibyI6IjEiLCJzIjoiZmViZjMyYzQ3NzBhYmI3NzdjN2FmNTdhZjUyODVmNTkzZWVkZTNjNjE0NGMwY2FjN2FjMWRmMzk0MjY2MWY5M2U0M2Q5NTZiZDJiODA3N2RjODAyYTEzM2EyNjgxNDVhZTBjNTRjYzYwY2NiZTE5ZTk5YjhkZjViOWVkZWRjOTAiLCJ0IjoxNzY1MTgzOTkxLCJzdGZwIjpudWxsLCJzdGlwIjoiMTIyLjEwMC43NC4xNTkifQ.uveOYEaEYgzEIHerCiugRZ8SNgOC70PzetsFRZbrJxQ/Nordic-darker.tar.xz</payload>
+  <tags>cc-by-sa,linux,kde,unix,theme,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Nordic bluish KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1801641</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>31660</downloads>
+  <installedfile>/home/peter/.local/share/plasma/desktoptheme/Nordic-bluish/</installedfile>
+  <id>1801641</id>
+  <releasedate>2025-12-05</releasedate>
+  <summary>&lt;p>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord">Nord&lt;/a> color palette.&lt;br />&lt;br />Suggested settings: &lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326272/">Nordic bluish Kvantum theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326274/">Nordic Aurorae theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1801631/">Nordic bluish color scheme&lt;/a>&lt;br />&lt;br />&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246"> Folders &lt;/a>&lt;br />&lt;br />Wallpaper in screenshot &lt;a href="https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg"> here &lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1801641/preview.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1801641/preview.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczNzA2ODcxOSwibyI6IjEiLCJzIjoiNTY2Y2VjNTQ5MTQzNTBhOGEyMWRiODRkZTlhNjdkMzcwZDk5YzNlYTM0YzI3MDJkNTJmNjUxZjdlZmUyMDQxZDUxNGYyZDQ4ZTc3NDdhYmJkY2RhODY5NjNmZmRjZGIzZjEzZjYyMDRmZGRlY2NkNmRlNzcwMTJhM2I2YjZiYTYiLCJ0IjoxNzY1MTg0MDU0LCJzdGZwIjpudWxsLCJzdGlwIjoiMTIyLjEwMC43NC4xNTkifQ.GMioQbq4p8qOB5iuamPvrcw0OJnwByNYXCGcCkU_EEA/Nordic-bluish.tar.xz</payload>
+  <tags>kde,linux,cc-by-sa,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

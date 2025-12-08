@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Nordic KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1326274</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>75</rating>
+  <downloads>328245</downloads>
+  <installedfile>/home/peter/.local/share/aurorae/themes/Nordic/*</installedfile>
+  <id>1326274</id>
+  <releasedate>2020-07-01</releasedate>
+  <summary>&lt;p>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord">Nord&lt;/a> color palette.&lt;br />&lt;br />Suggested settings: &lt;br />&lt;br />&lt;a href="https://www.pling.com/p/1326896/"> Nordic Plasma theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326272/">Nordic Kvantum theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326271/">Nordic color scheme&lt;/a>&lt;br />&lt;br />&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246"> Folders &lt;/a>&lt;br />&lt;br />Wallpaper in screenshot &lt;a href="https://i.imgur.com/SBKjnxm.jpg"> here &lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1326274/2159613d6404b04b0ebb587b1c3734aeb2fb1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/1326274/2159613d6404b04b0ebb587b1c3734aeb2fb1.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTU5MzYzMjc2MSwibyI6IjEiLCJzIjoiOWZiN2Y2OGNmZTRiMjM0NzU1ODQzNTVmNWQwYmI5OTUxMjZhODk5NDk5YjIwNzI4OWNjNDczYWU0MDY5NDgxMTc3ODQxNzdkMjk1NTI3NmUwMmZkZDU3MzkyYTZjODA0ZjFjNTFlZDJiMzY3MzY4YWZmZmQ4YTQ4ZTc3NzNlOGEiLCJ0IjoxNzY1MTgzOTk4LCJzdGZwIjpudWxsLCJzdGlwIjoiMTIyLjEwMC43NC4xNTkifQ.J7oIFhIPw5pdbNmgJ47Pq12grDEFx6WJ-LNJVLyb4j0/Nordic.tar.xz</payload>
+  <tags>unix,theme,gplv3,kde,plasma,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

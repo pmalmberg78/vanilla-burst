@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="722">
+  <name>Nordic darker LAF Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2146574</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>106663</downloads>
+  <installedfile>/home/peter/.local/share/plasma/look-and-feel/Nordic-darker/</installedfile>
+  <id>2146574</id>
+  <releasedate>2025-12-03</releasedate>
+  <summary>&lt;p>Nordic darker is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord">Nord&lt;/a> color palette.&lt;br />&lt;br />Suggested settings: &lt;br />&lt;br />&lt;a href="https://www.pling.com/p/1633673v/"> Nordic darker Plasma theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326272/">Nordic darker Kvantum theme&lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1326274/">Nordic Aurorae theme &lt;/a>&lt;br />&lt;br />&lt;a href="https://store.kde.org/p/1629062/">Nordic darker color scheme&lt;/a>&lt;br />&lt;br />&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246"> Folders &lt;/a>&lt;br />&lt;br />Wallpaper in screenshot &lt;a href="https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg"> here &lt;/a>&lt;/p></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/2146574/e993b51bc83f33e12484d08c32ba614be041a56cf8a0a428c60b16091dffa08244b2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-4/img/00/00/36/61/48/2146574/e993b51bc83f33e12484d08c32ba614be041a56cf8a0a428c60b16091dffa08244b2.png</previewBig>
+  <payload>https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTczNjkwOTI2NywibyI6IjEiLCJzIjoiODQwNmZhZTk2NWJjMTczNmNmZmEzZDJiMWYwZmU3NTNmZThlOWYwYTAyMWQzNTRhMTk1Y2I3OTA2YjBhYTVhMzNhNDkzYmRhOGYyZDgzNjczYWZmMTAyNTQwM2MyYWEwODhhZmNkNWU3MTY5NDkxNmEwMWVjMWI5YmM1Yjg3MjUiLCJ0IjoxNzY1MTgzOTc3LCJzdGZwIjpudWxsLCJzdGlwIjoiMTIyLjEwMC43NC4xNTkifQ.RIQtT95mTS1qbBmRPn9hBCsM9N0nEU8rxGazjo3Wxig/Nordic-darker.tar.xz</payload>
+  <tags>gplv3,plasma,plasma##majorversion=6,linux,kde,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

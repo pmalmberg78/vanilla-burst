@@ -2,7 +2,7 @@ name: plasma-core
 type: apt
 sources:
   - packages:
-    - sddm-theme-breeze
+    - gdm
     - plasma-desktop
     - plasma-browser-integration
     - plasma-firewall
