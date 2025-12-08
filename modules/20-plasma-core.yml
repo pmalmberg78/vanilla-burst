@@ -2,7 +2,7 @@ name: plasma-core
 type: apt
 sources:
   - packages:
-    - gdm
+    - gdm3
     - plasma-desktop
     - plasma-browser-integration
     - plasma-firewall
