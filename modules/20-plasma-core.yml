@@ -3,6 +3,11 @@ type: apt
 sources:
   - packages:
     - gdm3
+
+    - libpam-systemd
+    - xorg
+    - xserver-xephyr
+
     - plasma-desktop
     - plasma-browser-integration
     - plasma-firewall
@@ -15,6 +20,12 @@ sources:
     - ufw
     - kwin-wayland
     - kwin-addons
+
+    - dbus-x11
+    - kwin-x11
+    - libpam-systemd
+    - xorg
+    - xserver-xephyr
 
     - xdg-desktop-portal
     - xdg-desktop-portal-kde
