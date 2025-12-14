@@ -44,9 +44,9 @@ stages:
       - modules/30-plasma-essentials.yml
       - modules/35-mystuff.yml
       - modules/36-twingate-client.yml
-#      - modules/40-klassy-dependencies.yml
-#      - modules/41-klassy-setup.yml
-#      - modules/42-klassy-cleanup.yml
+      - modules/40-klassy-dependencies.yml
+      - modules/41-klassy-setup.yml
+      - modules/42-klassy-cleanup.yml
       - modules/161-plasma-utilities.yml
       - modules/200-plasma-common.yml
       - modules/999-cleanup.yml
