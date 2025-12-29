@@ -1,6 +1,6 @@
 name: Vanilla Burst
 id: vanilla-burst
-vibversion: 1.0.2
+vibversion: 1.0.6
 
 stages:
 - id: build
@@ -88,4 +88,5 @@ stages:
     commands:
       - rm -rf /tmp/*
       - rm -rf /var/tmp/*
-      - rm -rf /sources
+      - rm -rf /var/cache/*
+#      - rm -rf /sources
